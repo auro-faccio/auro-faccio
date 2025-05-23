@@ -1,0 +1,48 @@
+# Agente de RH com IA para Concreteiras – Plataforma Lovable
+
+Este projeto visa transformar a gestão de pessoas em empresas do setor de concreto usinado por meio de um aplicativo inteligente, acessível por todos os colaboradores e integrado à operação do RH.
+
+## 🌟 Visão Geral
+
+> "Com um RH forte, a empresa é forte."
+
+Este agente foi criado para:
+- Reduzir a rotatividade de colaboradores.
+- Melhorar a assertividade no recrutamento.
+- Otimizar a comunicação com o RH.
+- Oferecer desenvolvimento contínuo e personalizado.
+
+Construído com foco em UX simples (Lovable) e backend inteligente com recursos de IA preditiva.
+
+## 🧩 Funcionalidades
+
+### Para Colaboradores:
+- Solicitação de férias, contracheques, declarações.
+- Acompanhamento de desenvolvimento profissional.
+- Canal direto para dúvidas com o RH.
+
+### Para RH:
+- Painel preditivo de turnover.
+- Triagem automatizada de currículos.
+- Recomendação de trilhas de capacitação por função.
+- Monitoramento de clima organizacional.
+
+## 📊 Resultados Esperados
+
+| Indicador                      | Meta                 |
+|-------------------------------|----------------------|
+| Redução da rotatividade        | 30–40%               |
+| Tempo de preenchimento de vagas| -25%                 |
+| Assertividade nas contratações | +20%                 |
+| Índice de engajamento interno  | +15%                 |
+
+## 🔧 Tecnologias
+
+- **Lovable**: Interface e lógica de fluxo (low-code).
+- **Python + FastAPI** (sugestão para backend de IA).
+- **PostgreSQL**: Banco de dados.
+- **OpenAI API**: Análise preditiva de turnover e fit cultural.
+- **Docker**: Empacotamento.
+
+## 📁 Estrutura do Projeto
+
